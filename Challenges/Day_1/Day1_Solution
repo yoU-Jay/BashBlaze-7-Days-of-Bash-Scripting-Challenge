@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# This is a script that provides solution to Day 1 Challenge
+
+# Displays the day of challenge
+day=1
+echo "This is day $day challenge
+
+# Display the current date
+echo $(date)
+
+# Using wildcard to list all .sh files in the current directory
+ls *.sh
